@@ -1,36 +1,21 @@
-# PM-PluginTemplate 
+# RegisterSystem
 
 ## 概要　
-テンプレートです。　
 
+次のSpaceServerのためのプラグインです
+
+https://github.com/yurisi0212/connect-pmmp
+
+ショップやキャンペーンがサイトと連動します
 
 ## コマンド
-### example
-
-```bash
-/example [x] [y] [z]
-```
+なし
 
 ### API
-
-インスタンスを取得
-```php
-$api = Example::getInstance();
-```
-
-お金を取得
-```php
-$api->getMoney($player);
-```
-
+なし 
 
 ### コンフィグ
-```yaml
-1:
-  ID: 1
-  Meta: 1
-```
+なし
 
 ### その他
-
 
