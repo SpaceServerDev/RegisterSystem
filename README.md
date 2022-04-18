@@ -11,11 +11,11 @@ https://github.com/yurisi0212/connect-pmmp
 ## コマンド
 なし
 
-### API
+## API
 なし 
 
-### コンフィグ
+## コンフィグ
 なし
 
-### その他
+## その他
 
