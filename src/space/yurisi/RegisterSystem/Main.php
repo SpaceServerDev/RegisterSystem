@@ -18,7 +18,7 @@ class Main extends PluginBase {
     }
 
 	private function loadEvents(){
-		$this->getServer()->getPluginManager()->registerEvents(new JoinEvent(), $this);
+		$this->getServer()->getPluginManager()->registerEvents(new JoinEvent($this), $this);
 		$this->getServer()->getPluginManager()->registerEvents(new LoginEvent(), $this);
 	}
 
